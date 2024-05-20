@@ -1,0 +1,7 @@
+Quiz
+Cluster mana yang merupakan cluster yang paling baik?
+a.cluster 0
+b.cluster 2
+c.cluster 3
+d.cluster 4
+Jawaban (4)
